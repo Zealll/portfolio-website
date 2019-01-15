@@ -3186,3 +3186,8 @@ input, select, textarea {
 			}
 
 	}
+
+	.img .fit .thumb {
+		width: 10px;
+		height: 100%;
+	}
